@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doll Collection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .collection {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+        .doll {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+        }
+        .doll img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .add-form {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Doll Collection</h1>
+    <div class="collection" id="collection"></div>
+
+    <form class="add-form" id="addForm">
+        <h2>Add a New Doll</h2>
+        <label>
+            Name: <input type="text" id="dollName" required>
+        </label><br><br>
+        <label>
+            Release Date: <input type="date" id="releaseDate" required>
+        </label><br><br>
+        <label>
+            Photo URL: <input type="url" id="photoUrl" required>
+        </label><br><br>
+        <button type="submit">Add Doll</button>
+    </form>
+
+    <script>
+        const collection = document.getElementById('collection');
+        const addForm = document.getElementById('addForm');
+
+        const dolls = [];
+
+        function displayCollection() {
+            collection.innerHTML = '';
+            dolls.forEach((doll, index) => {
+                collection.innerHTML += `
+                    <div class="doll">
+                        <img src="${doll.photo}" alt="${doll.name}">
+                        <h3>${doll.name}</h3>
+                        <p>Release Date: ${doll.releaseDate}</p>
+                    </div>`;
+            });
+        }
+
+        addForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const name = document.getElementById('dollName').value;
+            const releaseDate = document.getElementById('releaseDate').value;
+            const photo = document.getElementById('photoUrl').value;
+
+            dolls.push({ name, releaseDate, photo });
+            displayCollection();
+
+            addForm.reset();
+        });
+    </script>
+</body>
+</html>
