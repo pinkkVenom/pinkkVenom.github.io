@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "G3 Draculaura",
+    "release_date": "October 2022",
+    "retail_price": "44.99",
+    "model_number": "HHK51",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/712LncouLcL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71-TuVUzXNL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "G3 Cleo De Nile",
+    "release_date": "October 2022",
+    "retail_price": "44.99",
+    "model_number": "HHK54",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/716YPKbq3VL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/81UQBOXSEoL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "G3 Frankie Stein",
+    "release_date": "October 2022",
+    "retail_price": "44.99",
+    "model_number": "HHK53",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/61Tj+x4CILL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71Mi7-py0JL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71TaAlpOYfL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "G3 Lagoona Blue",
+    "release_date": "October 2022",
+    "retail_price": "44.99",
+    "model_number": "HHK55",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71CkhHwwTIL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71zzs4ZbQXL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "G3 Clawdeen Wolf",
+    "release_date": "October 2022",
+    "retail_price": "44.99",
+    "model_number": "HHK52",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71zs6MyDVfL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71cPMA7yJfL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "G3 Deuce Gorgon",
+    "release_date": "October 2022",
+    "retail_price": "44.99",
+    "model_number": "HHK56",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/61wjoqAggML._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71ZAxIzZjXL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71+OE74uoXL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "G3 Ghoulia Yelps",
+    "release_date": "October 2022",
+    "retail_price": "44.99",
+    "model_number": "HHK58",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/811ZYjGsaDL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/81GQgiVqgoL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/91AdsutxAlL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "G3 Toralei Stripe",
+    "release_date": "October 2022",
+    "retail_price": "44.99",
+    "model_number": "HHK57",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/61hzQUSxK-L._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71fQezK7O9L._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71nTj1uNxyL._AC_SL1500_.jpg"]
+  }
+]
+
+  
