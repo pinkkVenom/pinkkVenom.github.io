@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let dolls = [];
   
     // Fetch the doll data
-    fetch('json/doll-collection.json')
+    fetch('json/traditional-breyer-collection.json')
       .then(response => response.json())
       .then(data => {
         dolls = data;
@@ -54,12 +54,10 @@ document.addEventListener("DOMContentLoaded", () => {
       dollCard.innerHTML += `
         <h2>${doll.name}</h2>
         <p><strong>Release Date:</strong> ${doll.release_date}</p>
-        <p><strong>Retail Price:</strong> ${doll.retail_price} CAD</p>
-        <p><strong>Model Number:</strong> ${doll.model_number}</p>
+        <p><strong>Mold Type:</strong> ${doll.mold_type}</p>
         <p><strong>Current Condition:</strong> ${doll.condition}</p>
       `;
 
-      
       // Create a button for the dropdown
       const toggleButton = document.createElement("button");
       toggleButton.textContent = "More Info";
@@ -87,8 +85,6 @@ document.addEventListener("DOMContentLoaded", () => {
       dollCard.appendChild(dropdownContainer);
 
       // Add the doll card to the collection container
-      collectionContainer.appendChild(dollCard);
-
       collectionContainer.appendChild(dollCard);
     });
 

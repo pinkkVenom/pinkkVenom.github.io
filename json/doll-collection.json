@@ -6,7 +6,8 @@
     "retail_price": "44.99",
     "model_number": "HHK51",
     "condition": "Brand New, all parts ",
-    "images": ["https://m.media-amazon.com/images/I/712LncouLcL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71-TuVUzXNL._AC_SL1500_.jpg"]
+    "images": ["https://m.media-amazon.com/images/I/712LncouLcL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71-TuVUzXNL._AC_SL1500_.jpg"]
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "retail_price": "44.99",
     "model_number": "HHK54",
     "condition": "Brand New, all parts ",
-    "images": ["https://m.media-amazon.com/images/I/716YPKbq3VL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/81UQBOXSEoL._AC_SL1500_.jpg"]
+    "images": ["https://m.media-amazon.com/images/I/716YPKbq3VL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/81UQBOXSEoL._AC_SL1500_.jpg"]
   },
   {
     "id": 3,
@@ -24,7 +26,9 @@
     "retail_price": "44.99",
     "model_number": "HHK53",
     "condition": "Brand New, all parts ",
-    "images": ["https://m.media-amazon.com/images/I/61Tj+x4CILL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71Mi7-py0JL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71TaAlpOYfL._AC_SL1500_.jpg"]
+    "images": ["https://m.media-amazon.com/images/I/61Tj+x4CILL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71Mi7-py0JL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71TaAlpOYfL._AC_SL1500_.jpg"]
   },
   {
     "id": 4,
@@ -33,7 +37,8 @@
     "retail_price": "44.99",
     "model_number": "HHK55",
     "condition": "Brand New, all parts ",
-    "images": ["https://m.media-amazon.com/images/I/71CkhHwwTIL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71zzs4ZbQXL._AC_SL1500_.jpg"]
+    "images": ["https://m.media-amazon.com/images/I/71CkhHwwTIL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71zzs4ZbQXL._AC_SL1500_.jpg"]
   },
   {
     "id": 5,
@@ -42,7 +47,8 @@
     "retail_price": "44.99",
     "model_number": "HHK52",
     "condition": "Brand New, all parts ",
-    "images": ["https://m.media-amazon.com/images/I/71zs6MyDVfL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71cPMA7yJfL._AC_SL1500_.jpg"]
+    "images": ["https://m.media-amazon.com/images/I/71zs6MyDVfL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71cPMA7yJfL._AC_SL1500_.jpg"]
   },
   {
     "id": 6,
@@ -51,7 +57,9 @@
     "retail_price": "44.99",
     "model_number": "HHK56",
     "condition": "Brand New, all parts ",
-    "images": ["https://m.media-amazon.com/images/I/61wjoqAggML._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71ZAxIzZjXL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71+OE74uoXL._AC_SL1500_.jpg"]
+    "images": ["https://m.media-amazon.com/images/I/61wjoqAggML._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71ZAxIzZjXL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71+OE74uoXL._AC_SL1500_.jpg"]
   },
   {
     "id": 7,
@@ -60,16 +68,333 @@
     "retail_price": "44.99",
     "model_number": "HHK58",
     "condition": "Brand New, all parts ",
-    "images": ["https://m.media-amazon.com/images/I/811ZYjGsaDL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/81GQgiVqgoL._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/91AdsutxAlL._AC_SL1500_.jpg"]
+    "images": ["https://m.media-amazon.com/images/I/811ZYjGsaDL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/81GQgiVqgoL._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/91AdsutxAlL._AC_SL1500_.jpg"]
   },
   {
     "id": 8,
-    "name": "G3 Toralei Stripe",
+    "name": "G3 Toralei Stripe [US Walmart Exclusive]",
     "release_date": "October 2022",
     "retail_price": "44.99",
     "model_number": "HHK57",
     "condition": "Brand New, all parts ",
-    "images": ["https://m.media-amazon.com/images/I/61hzQUSxK-L._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71fQezK7O9L._AC_SL1500_.jpg", "https://m.media-amazon.com/images/I/71nTj1uNxyL._AC_SL1500_.jpg"]
+    "images": ["https://m.media-amazon.com/images/I/61hzQUSxK-L._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71fQezK7O9L._AC_SL1500_.jpg", 
+    "https://m.media-amazon.com/images/I/71nTj1uNxyL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 9,
+    "name": "G3 Ghoul Spirit 6-Pack with Clawdeen Frankie Draculaura Cleo Toralei Deuce",
+    "release_date": "October 2022",
+    "retail_price": "89.99-149.99",
+    "model_number": "HHR57",
+    "condition": "Brand New, all parts ",
+    "images": ["https://www.youloveit.com/uploads/posts/2022-09/1663777969_youloveit_com_monster_high_team_spirit_6_doll_set2.jpg", 
+    "https://www.youloveit.com/uploads/posts/2022-09/1663777972_youloveit_com_monster_high_team_spirit_6_doll_set3.jpg", 
+    "https://www.youloveit.com/uploads/posts/2022-09/1663777909_youloveit_com_monster_high_team_spirit_6_doll_set4.jpg",
+    "https://www.youloveit.com/uploads/posts/2022-09/1663777912_youloveit_com_monster_high_team_spirit_6_doll_set.jpg"]
+  },
+  {
+    "id": 10,
+    "name": "G3 Deuce Gorgon and Frankie Stein Coffee Break 2-Pack",
+    "release_date": "October 2022",
+    "retail_price": "69.99-89.99",
+    "model_number": "HHR58",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/61H2kCD-DbL._AC_SL1296_.jpg",
+    "https://m.media-amazon.com/images/I/71RVFsVB86L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71BACvN9rpL._AC_SL1296_.jpg"]
+  },
+  {
+    "id": 11,
+    "name": "G3 Creepover Party Draculaura",
+    "release_date": "January 2023",
+    "retail_price": "49.99",
+    "model_number": "HKY66",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71dTlAsefZL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71zuNpukC2L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/8171IFKwgbL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 12,
+    "name": "G3 Creepover Party Frankie Stein",
+    "release_date": "January 2023",
+    "retail_price": "49.99",
+    "model_number": "HKY68",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/715KkoVCiIL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ZQEHwVB6L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81lemjEYagL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 13,
+    "name": "G3 Creepover Party Clawdeen Wolf",
+    "release_date": "January 2023",
+    "retail_price": "49.99",
+    "model_number": "HKY67",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71JJ0u-e3cL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81z4dfMqJhL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Af+CZX4sL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 14,
+    "name": "G3 Creepover Party Twyla",
+    "release_date": "January 2023",
+    "retail_price": "49.99",
+    "model_number": "HLP87",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71RYQoKkP7L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/812NXYHaP0L._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 15,
+    "name": "G3 Skulltimate Secrets 1 (SS1) Innovation Frankie Stein",
+    "release_date": "April 2023",
+    "retail_price": "54.99",
+    "model_number": "HKY62",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81VSZoWnTyL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71HAE-+bFnL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 16,
+    "name": "G3 Skulltimate Secrets 1 (SS1) Innovation Lagoona Blue",
+    "release_date": "April 2023",
+    "retail_price": "54.99",
+    "model_number": "HKY64",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81HlFPxpJuL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2022-10/1664917861_youloveit_com_monster_high_innovation_series_doll_lagoona_blue2.jpg"]
+  },
+  {
+    "id": 17,
+    "name": "G3 Skulltimate Secrets 1 (SS1) Innovation Draculaura",
+    "release_date": "April 2023",
+    "retail_price": "54.99",
+    "model_number": "HKY60",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/712qakirieL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2022-10/1664917872_youloveit_com_monster_high_innovation_series_doll_draculaura2.jpg"]
+  },
+  {
+    "id": 18,
+    "name": "G3 Skulltimate Secrets 1 (SS1) Innovation Clawdeen Wolf",
+    "release_date": "April 2023",
+    "retail_price": "54.99",
+    "model_number": "HKY61",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81S494DqeuL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2022-10/1664917838_youloveit_com_monster_high_innovation_series_doll_clawdeen_wolf2.jpg"]
+  },
+  {
+    "id": 19,
+    "name": "G3 Skulltimate Secrets 1 (SS1) Innovation Cleo De Nile",
+    "release_date": "April 2023",
+    "retail_price": "54.99",
+    "model_number": "HKY63",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81qOGSI5e2L._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2022-10/1664917808_youloveit_com_monster_high_innovation_series_doll_cleo_de_nile2.jpg"]
+  },
+  {
+    "id": 20,
+    "name": "G3 Abbey Bominable",
+    "release_date": "June 2023",
+    "retail_price": "44.99",
+    "model_number": "HNF64",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/7177zApusnL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2023-02/1676503924_youloveit_com_monster_high_abbey_bominable_2023_doll.jpg",
+    "https://m.media-amazon.com/images/I/81wn94khnGL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 21,
+    "name": "G3 Clawd Wolf",
+    "release_date": "June 2023",
+    "retail_price": "44.99",
+    "model_number": "HNF65",
+    "condition": "Brand New, all parts ",
+    "images": ["https://www.youloveit.com/uploads/posts/2023-02/1676504013_youloveit_com_monster_high_clawd_wolf_2023_doll2.jpg",
+    "https://m.media-amazon.com/images/I/71XoFPQTksL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81skei9jYsL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 22,
+    "name": "G3 Skulltimate Secrets 2 (SS2) Fearidescent Frankie Stein",
+    "release_date": "June 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF75",
+    "condition": "Brand New, all parts ",
+    "images": ["https://www.youloveit.com/uploads/posts/2023-02/1675883339_youloveit_com_monster_high_skulltimate_secrets_fearidescent_series_frankie_doll.jpg",
+    "https://www.youloveit.com/uploads/posts/2023-02/1675883350_youloveit_com_monster_high_skulltimate_secrets_fearidescent_series_frankie_doll5.jpg"]
+  },
+  {
+    "id": 23,
+    "name": "G3 Skulltimate Secrets 2 (SS2) Fearidescent Draculaura",
+    "release_date": "June 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF73",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71V2Xta3gZL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2023-02/1675883247_youloveit_com_monster_high_skulltimate_secrets_fearidescent_series_draculaura_doll5.jpg"]
+  },
+  {
+    "id": 24,
+    "name": "G3 Skulltimate Secrets 2 (SS2) Fearidescent Clawdeen Wolf",
+    "release_date": "June 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF74",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71eNumYqPwL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2023-02/1675883292_youloveit_com_monster_high_skulltimate_secrets_fearidescent_series_clawdeen_wolf_doll5.jpg"]
+  },
+  {
+    "id": 25,
+    "name": "G3 Skulltimate Secrets 2 (SS2) Fearidescent Lagoona Blue",
+    "release_date": "June 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF77",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71-v82Cm0bL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2023-02/1675883321_youloveit_com_monster_high_skulltimate_secrets_fearidescent_series_lagoona_doll5.jpg"]
+  },
+  {
+    "id": 26,
+    "name": "G3 Skulltimate Secrets 2 (SS2) Fearidescent Cleo De Nile",
+    "release_date": "June 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF76",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81V5qwGXInL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2023-02/1675883272_youloveit_com_monster_high_skulltimate_secrets_fearidescent_series6.jpg"]
+  },
+  {
+    "id": 27,
+    "name": "G3 Monster Ball Cleo De Nile",
+    "release_date": "June 2023",
+    "retail_price": "49.99",
+    "model_number": "HNF70",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71qTxhGCivL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xd8CeqM9L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81agj5DGAuL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 28,
+    "name": "G3 Monster Ball Lagoona Blue",
+    "release_date": "June 2023",
+    "retail_price": "49.99",
+    "model_number": "HNF71",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71YAbEaKrQL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71jBxVtuoGL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/814FYB387gL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 29,
+    "name": "G3 Monster Ball Draculaura",
+    "release_date": "June 2023",
+    "retail_price": "49.99",
+    "model_number": "HNF68",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71m1bV0HUeL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81HbhC3ejxL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81z8aB9dLjL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 30,
+    "name": "G3 Monster Ball Clawdeen Wolf",
+    "release_date": "June 2023",
+    "retail_price": "49.99",
+    "model_number": "HNF69",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/71XtF+hi-cL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oTpBYVqLL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81i+zIVsztL._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 31,
+    "name": "G3 Monster Fan-Sea Lagoona Blue",
+    "release_date": "August 2023",
+    "retail_price": "89.99",
+    "model_number": "HNF86",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/61KJIgC0QfL._AC_SL1200_.jpg"]
+  },
+  {
+    "id": 32,
+    "name": "G3 Skulltimate Secrets 3 (SS3) Neon Frights Draculaura",
+    "release_date": "October 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF78",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81x1EsmE7KL._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2023-08/1691222310_youloveit_com_monster_high_skulltimate_secrets_3_neon_frights_draculaura_doll5.jpg"]
+  },
+  {
+    "id": 33,
+    "name": "G3 Skulltimate Secrets 3 (SS3) Neon Frights Toralei Stripe",
+    "release_date": "October 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF80",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81XhZoKailL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/513zTVfuI+L._AC_SL1000_.jpg"]
+  },
+  {
+    "id": 34,
+    "name": "G3 Skulltimate Secrets 3 (SS3) Neon Frights Ghoulia Yelps",
+    "release_date": "October 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF81",
+    "condition": "Brand New, all parts ",
+    "images": ["https://www.youloveit.com/uploads/posts/2023-08/1691222574_youloveit_com_monster_high_skulltimate_secrets_3_neon_frights_ghoulia_doll.jpg",
+    "https://m.media-amazon.com/images/I/71zcUqVLw4L._AC_SL1500_.jpg"]
+  },
+  {
+    "id": 35,
+    "name": "G3 Skulltimate Secrets 3 (SS3) Neon Frights Frankie Stein",
+    "release_date": "October 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF79",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81tlMco3s9L._AC_SL1500_.jpg",
+    "https://www.youloveit.com/uploads/posts/2023-08/1691222523_youloveit_com_monster_high_skulltimate_secrets_3_neon_frights_frankie_stein_doll4.jpg"]
+  },
+  {
+    "id": 36,
+    "name": "G3 Skulltimate Secrets 3 (SS3) Neon Frights Twyla",
+    "release_date": "October 2023",
+    "retail_price": "54.99",
+    "model_number": "HNF82",
+    "condition": "Brand New, all parts ",
+    "images": ["https://m.media-amazon.com/images/I/81oAq5X+KyL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51s8WjBL+wL._AC_SL1000_.jpg"]
+  },
+  {
+    "id": 37,
+    "name": "G3 Faboolous Pets Cleo De Nile [Target Exclusive]",
+    "release_date": "October 2023",
+    "retail_price": "44.99",
+    "model_number": "HNP95",
+    "condition": "Brand New, all parts ",
+    "images": ["https://www.youloveit.com/uploads/posts/2023-10/1696169201_youloveit_com_monster_high_faboolous_pets_dolls01.webp",
+    "https://www.youloveit.com/uploads/posts/2023-10/1696169257_youloveit_com_monster_high_faboolous_pets_dolls05.webp",
+    "https://www.youloveit.com/uploads/posts/2023-10/1696169286_youloveit_com_monster_high_faboolous_pets_dolls09.webp"]
+  },
+  {
+    "id": 3,
+    "name": "G3 Faboolous Pets Draculaura and Clawdeen 2-pack",
+    "release_date": "October 2023",
+    "retail_price": "89.99",
+    "model_number": "HNP96",
+    "condition": "Brand New, all parts ",
+    "images": ["https://www.youloveit.com/uploads/posts/2023-10/1696169292_youloveit_com_monster_high_faboolous_pets_dolls03.webp",
+    "https://www.youloveit.com/uploads/posts/2023-10/1696169248_youloveit_com_monster_high_faboolous_pets_dolls10.webp",
+    "https://www.youloveit.com/uploads/posts/2023-10/1696169329_youloveit_com_monster_high_faboolous_pets_dolls11.webp"]
   }
 ]
 

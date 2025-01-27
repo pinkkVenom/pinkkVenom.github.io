@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let dolls = [];
   
     // Fetch the doll data
-    fetch('json/doll-collection.json')
+    fetch('json/kpop-album-collection.json')
       .then(response => response.json())
       .then(data => {
         dolls = data;
@@ -54,12 +54,9 @@ document.addEventListener("DOMContentLoaded", () => {
       dollCard.innerHTML += `
         <h2>${doll.name}</h2>
         <p><strong>Release Date:</strong> ${doll.release_date}</p>
-        <p><strong>Retail Price:</strong> ${doll.retail_price} CAD</p>
-        <p><strong>Model Number:</strong> ${doll.model_number}</p>
-        <p><strong>Current Condition:</strong> ${doll.condition}</p>
+        <p><strong>Album Type:</strong> ${doll.album_type}</p>
       `;
 
-      
       // Create a button for the dropdown
       const toggleButton = document.createElement("button");
       toggleButton.textContent = "More Info";
@@ -69,9 +66,8 @@ document.addEventListener("DOMContentLoaded", () => {
       const dropdownContainer = document.createElement("div");
       dropdownContainer.classList.add("dropdown-container");
       dropdownContainer.innerHTML = `
-        <p><strong>Description:</strong> ${doll.description || "N/A"}</p>
-        <p><strong>Price:</strong> ${doll.price || "N/A"}</p>
-        <p><strong>Features:</strong> ${doll.features?.join(", ") || "N/A"}</p>
+        <p><strong>Inclusions:</strong> ${doll.inclusions || "N/A"}</p>
+        <p><strong>Retail Price:</strong> ${doll.retail_price || "N/A"}</p>
       `;
       dropdownContainer.style.display = "none"; // Hidden by default
 
@@ -87,8 +83,6 @@ document.addEventListener("DOMContentLoaded", () => {
       dollCard.appendChild(dropdownContainer);
 
       // Add the doll card to the collection container
-      collectionContainer.appendChild(dollCard);
-
       collectionContainer.appendChild(dollCard);
     });
 
@@ -154,4 +148,3 @@ document.addEventListener("DOMContentLoaded", () => {
       displayDolls(sortedDolls);
     });
   });
-  
